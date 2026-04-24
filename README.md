@@ -1,4 +1,4 @@
-# Power_BI-Project
+# Python Project
 📌 Project Overview
 
 * This capstone project demonstrates practical use of Python, Pandas, and NumPy for data cleaning, transformation, merging, and analysis using multiple datasets. The project simulates an employee-project management system where project heads are assigned projects with different costs, statuses, and designation levels.
